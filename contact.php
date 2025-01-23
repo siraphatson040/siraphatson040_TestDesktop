@@ -16,7 +16,7 @@
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a herf="contact.php">ติดต่อ</li>
+				<li><a herf="contact.php">ติดต่อ</li>kkkkkkkk
                 <li><a herf="detail.php">รายละเอียดเพิ่มเติม</li>
 
 				</ul><p>
